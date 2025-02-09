@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, sou Peterson 9K 👋
 
-<!--
-**Peterson9k/Peterson9k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Atualmente trabalhando em projetos de **Java**, **Spring Boot** e **React**.
 
-Here are some ideas to get you started:
+🌱 Atualmente aprendendo **JDBC** e **Banco de Dados**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 Quero colaborar em projetos de **back-end** e **full-stack**.
+
+🤔 Buscando aprender mais sobre **Arquitetura de Software** e **Cloud Computing**.
+
+⚡ Fun fact: Eu sou fascinado por como a tecnologia pode mudar o mundo!
+
+## Tecnologias que uso:
+- **Java** (Spring Boot)
+- **React**
+- **MySQL**
+- **HTML, CSS, JavaScript**
+- **Git/GitHub**
+
+## 📫 Como me encontrar:
